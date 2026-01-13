@@ -1,4 +1,4 @@
-# Netflix-Data-Analysis📊 Netflix Content Analysis & Visualization
+📊 Netflix Content Analysis & Visualization
 
 This project presents an end-to-end exploratory data analysis (EDA) and visualization of Netflix’s content catalog. The objective is to uncover meaningful insights about movies and TV shows on the platform by analyzing trends related to genres, actors, directors, countries, ratings, and release patterns.
 
